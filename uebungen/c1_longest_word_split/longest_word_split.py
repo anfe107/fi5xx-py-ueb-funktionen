@@ -1,0 +1,8 @@
+def longest_word_split(sentence: str) -> str:
+    """Return the longest word in the sentence.
+
+    sentence: words separated by single spaces.
+    Return: the longest word. If multiple words share the maximum length, the
+        first one is returned. An empty sentence returns the empty string.
+    """
+    # TODO
